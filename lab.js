@@ -4,7 +4,10 @@
   Give it a key of name with the value being your name, and another key of age with the value being your age.
 */
 
-
+const Me = {
+  name: `Curt`,
+  age: `24`
+}
 
 
 
